@@ -1,0 +1,7 @@
+Anglia	London (bels�)	44	207	53
+Anglia	Cardiff	44	29	3
+Magyarorsz�g	Vodafone (mobil oper�tor)	36	70	31
+USA	Delaware �llam (minden v�ros)	1	302	4
+Ausztria	Salzburg	43	662	18
+Ausztria	B�cs	43	1	8
+Magyarorsz�g	Budapest	36	1	3
